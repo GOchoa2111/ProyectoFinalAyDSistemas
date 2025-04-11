@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|c:\\users\\gochoa\\source\\repos\\apiventas\\apiventas\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|solutionrelative:apiventas\\context\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|c:\\users\\gochoa\\source\\repos\\apiventas\\apiventas\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|solutionrelative:apiventas\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|c:\\users\\gochoa\\source\\repos\\apiventas\\apiventas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|solutionrelative:apiventas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|c:\\users\\gochoa\\source\\repos\\apiventas\\apiventas\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|solutionrelative:apiventas\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|c:\\users\\gochoa\\source\\repos\\apiventas\\apiventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|solutionrelative:apiventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|c:\\users\\gochoa\\source\\repos\\apiventas\\apiventas\\apiventas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DE1D7AD-C695-43B8-A0E4-9A0AD0089616}|ApiVentas\\ApiVentas.csproj|solutionrelative:apiventas\\apiventas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Context\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ApiVentas\\Context\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Context\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ApiVentas\\Context\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:34:21.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiVentas\\appsettings.json",
+              "ToolTip": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\appsettings.json",
+              "RelativeToolTip": "ApiVentas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T02:14:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiVentas\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ApiVentas\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T02:04:53.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "ApiVentas\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Modelos\\Producto.cs",
+              "RelativeToolTip": "ApiVentas\\Modelos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:56:20.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Program.cs",
+              "RelativeDocumentMoniker": "ApiVentas\\Program.cs",
+              "ToolTip": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\Program.cs",
+              "RelativeToolTip": "ApiVentas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:43:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiVentas.csproj",
+              "DocumentMoniker": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\ApiVentas.csproj",
+              "RelativeDocumentMoniker": "ApiVentas\\ApiVentas.csproj",
+              "ToolTip": "C:\\Users\\GOchoa\\source\\repos\\ApiVentas\\ApiVentas\\ApiVentas.csproj",
+              "RelativeToolTip": "ApiVentas\\ApiVentas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T01:34:51.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
