@@ -14,7 +14,6 @@ Bienvenido al sistema de Ventas, una aplicación en construccion diseñada para 
 
 - 💻 Lenguaje: `Java`
 - 🗃️ Base de datos: `MySQL` / `SQL Server`
-- 🧠 ORM: `Hibernate` (opcional)
 - 🎨 Interfaz: `Java Swing` / `JavaFX`
 - 🌐 Conexión a API REST (en C#)
 
