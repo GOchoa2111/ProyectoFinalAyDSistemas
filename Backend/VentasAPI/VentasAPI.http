@@ -1,6 +1,0 @@
-@VentasAPI_HostAddress = http://localhost:5094
-
-GET {{VentasAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
