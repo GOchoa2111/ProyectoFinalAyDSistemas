@@ -1,0 +1,17 @@
+========================================
+             TICKET DE VENTA
+========================================
+Fecha: 2025-06-07 14:43:28
+
+Cliente: Gary
+Vendedor: admin
+
+Producto: Teclado Mecánico Redragon radeon
+Cantidad: 2
+Precio Unitario: $150.0
+Subtotal: $300.0
+----------------------------------------
+TOTAL A PAGAR: $300.0
+========================================
+     ¡Gracias por su compra!
+========================================

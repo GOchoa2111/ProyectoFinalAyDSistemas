@@ -1,0 +1,17 @@
+========================================
+             TICKET DE VENTA
+========================================
+Fecha: 2025-06-07 13:07:28
+
+Cliente: Gary
+Vendedor: admin
+
+Producto: Mouse Logitech M280
+Cantidad: 5
+Precio Unitario: $85.0
+Subtotal: $425.0
+----------------------------------------
+TOTAL A PAGAR: $425.0
+========================================
+     ¡Gracias por su compra!
+========================================
